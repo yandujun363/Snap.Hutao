@@ -7,6 +7,8 @@ desktop.ini
 .idea/
 src/Snap.Hutao/_ReSharper.Caches
 
+dir.txt
+
 src/Snap.Hutao/Snap.Hutao/bin/
 src/Snap.Hutao/Snap.Hutao/obj/
 src/Snap.Hutao/Snap.Hutao/Resource/Localization/SH.Designer.cs
